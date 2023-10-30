@@ -6,7 +6,7 @@ import { ShopBagIcon } from "@/components/icons/shopping-bag-icon";
 import { useProduct } from "@/hooks/useProduct";
 import { Product } from "@/types/product";
 import { formatPrice } from "@/utils/format-price";
-import { styled } from "styled-components"
+import { styled } from "styled-components";
 
 interface ProductProps {
 
